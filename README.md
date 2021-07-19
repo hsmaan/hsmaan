@@ -1,7 +1,13 @@
 ### Hi there 👋
 
+Hey there! I'm a first year PhD student in the [Bo Wang Lab](https://wanglab.ml/) at the University of Toronto and The Vector Institute. 
+
+My research involves the development and application of machine learning and computational biology methods in single-cell genomics. I've also worked on computational biology software development in [COVID-19](https://github.com/hsmaan/CovidGenotyper), [transcriptional regulation](https://hsmaan.github.io/LoopRig/), and [high-throughput sequencing analysis](https://github.com/hsmaan/light-seq).
+
+**Email**: hurmaan99 [at] gmail.com \
+**Google Scholar**: [Hassaan Maan](https://scholar.google.com/citations?user=U9Z5rYMAAAAJ&hl=en)
+
 [![Hassaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hsmaan&show_icons=true&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-Here are some ideas to get you started:
 
 <!--
 **hsmaan/hsmaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
