@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a first year PhD student in the [Bo Wang Lab](https://wanglab.ml/) at the University of Toronto and the Vector Institute. 
+I'm a second year PhD candidate in the [Bo Wang Lab](https://wanglab.ml/) at the University of Toronto and the Vector Institute. 
 
 My research involves the development and application of machine learning and computational biology methods in single-cell genomics. Previously, I've worked on computational biology software development in [COVID-19](https://github.com/hsmaan/CovidGenotyper), [transcriptional regulation](https://hsmaan.github.io/LoopRig/), and [high-throughput sequencing analysis](https://github.com/hsmaan/light-seq).
 
